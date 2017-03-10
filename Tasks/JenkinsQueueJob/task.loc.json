@@ -107,6 +107,13 @@
   },
   "messages": {
     "JenkinsJobQueued": "ms-resource:loc.messages.JenkinsJobQueued",
-    "FailedToGenerateSummary": "ms-resource:loc.messages.FailedToGenerateSummary"
+    "FailedToGenerateSummary": "ms-resource:loc.messages.FailedToGenerateSummary",
+    "succeeded": "ms-resource:loc.messages.succeeded",
+    "unstable": "ms-resource:loc.messages.unstable",
+    "failed": "ms-resource:loc.messages.failed",
+    "notbuilt": "ms-resource:loc.messages.notbuilt",
+    "aborted": "ms-resource:loc.messages.aborted",
+    "unknown": "ms-resource:loc.messages.unknown",
+    "console": "ms-resource:loc.messages.console"
   }
 }
